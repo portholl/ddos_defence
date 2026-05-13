@@ -1,4 +1,4 @@
-# A method for detecting and preventing Distributed Denial of Service attacks on controllers in software-defined networks using machine learning algorithms (ddos_defence_
+# A method for detecting and preventing Distributed Denial of Service attacks on controllers in software-defined networks using machine learning algorithms (ddos_defence)
 Сначала запускается контроллер RUNOS с конфигурационным файлом runos/runos.json, содержащим параметры OpenFlow-сервера и разработанного приложения guard-app.
 
 [nix-shell:~/runos/build]$ ./runos -c ../runos.json
